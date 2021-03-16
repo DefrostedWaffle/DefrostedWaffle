@@ -11,7 +11,7 @@ I woud like to specialize myself in AI and/or Software Engineering.
 
 ## Socials
 
-[LinkedIn] (https://www.linkedin.com/in/tsirvent/)
+[LinkedIn](https://www.linkedin.com/in/tsirvent/)
 
 
 <!--
