@@ -5,7 +5,7 @@ Hi I'm Thomas, an engineering student in Computer Science aiming to learn new sk
 ### Interests
 
 Currently open to all sorts of languages, ideas and concepts. 
-I woud like to specialize myself in AI and/or Software Engineering.
+I woud like to specialize myself in AI and Software Engineering.
 
 ### Socials
 
