@@ -3,11 +3,13 @@
 Hi I'm Thomas, an engineering student in Computer Science aiming to learn new skills while also having fun in the meantime.
 
 ## Education
-Master's degree in Computer Science at UQAC (Québec, Canada)  
-Double degree partnership. Studied IA, Machine Learning/Deep Learning, Big Data and Computer Vision
+### Master's degree in Computer Science at UQAC (Québec, Canada)  
+Double degree partnership.  
+Studied IA, Machine Learning/Deep Learning, Big Data and Computer Vision
 
-Master's degree in Computer Science at UTBM (France)  
-5 years engineering degree. Studied algorithms, basic AI concepts, 3D modelling, VR/AR with Unity
+### Master's degree in Computer Science at UTBM (France)  
+5 years engineering degree.  
+Studied algorithms, basic AI concepts, 3D modelling, VR/AR with Unity
 
 ## Interests and main tools
 
