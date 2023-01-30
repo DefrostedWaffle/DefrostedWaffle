@@ -1,6 +1,7 @@
 # Welcome to my GitHub profile page ! 👋
 
 Hi I'm Thomas, an engineering student in Computer Science aiming to learn new skills while also having fun in the meantime.
+
 I am looking for an internship in Data Science, Machine Learning, or AI generally.
 
 ## Education
@@ -19,7 +20,7 @@ Main langages are Python and C++. Currently interested in all fields of IA.
 ## Socials
 
 [LinkedIn](https://www.linkedin.com/in/tsirvent/)  
-[Website](www.tsirvent.com)
+[Website](https://www.tsirvent.com)
 
 <!--
 **DefrostedWaffle/DefrostedWaffle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
