@@ -20,7 +20,7 @@ Main langages are Python and C++. Currently interested in all fields of IA.
 ## Socials
 
 [LinkedIn](https://www.linkedin.com/in/tsirvent/)  
-[Website](https://www.tsirvent.com)
+[Personnal website](https://www.tsirvent.com)
 
 <!--
 **DefrostedWaffle/DefrostedWaffle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
