@@ -20,7 +20,7 @@ Main langages are Python and C++. Currently interested in all fields of IA.
 ## Socials and links
 
 [LinkedIn](https://www.linkedin.com/in/tsirvent/)  
-[Personnal website](https://www.tsirvent.com)
+[Personnal website](https://www.tsirvent.com)  
 [Kaggle](https://www.kaggle.com/thomassirvent)
 
 <!--
