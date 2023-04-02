@@ -17,10 +17,11 @@ Studied algorithms, basic AI concepts, 3D modelling, VR/AR with Unity
 
 Main langages are Python and C++. Currently interested in all fields of IA.
 
-## Socials
+## Socials and links
 
 [LinkedIn](https://www.linkedin.com/in/tsirvent/)  
 [Personnal website](https://www.tsirvent.com)
+[Kaggle](https://www.kaggle.com/thomassirvent)
 
 <!--
 **DefrostedWaffle/DefrostedWaffle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
