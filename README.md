@@ -16,7 +16,7 @@ Studied algorithms, basic AI concepts, 3D modelling, VR/AR with Unity
 
 ## Socials and links
 
-[LinkedIn](https://www.linkedin.com/in/tsirvent/) - [Personnal website](https://www.tsirvent.com) - [Kaggle](https://www.kaggle.com/thomassirvent)  
+[LinkedIn](https://www.linkedin.com/in/tsirvent/) [Personal website](https://www.tsirvent.com) [Kaggle](https://www.kaggle.com/thomassirvent)  
 
 ## Profile stats
 
