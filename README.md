@@ -23,6 +23,11 @@ Main langages are Python and C++. Currently interested in all fields of IA.
 [Personnal website](https://www.tsirvent.com)  
 [Kaggle](https://www.kaggle.com/thomassirvent)
 
+## Profile stats
+
+![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LargeWaffle&show_icons=true&theme=radical)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LargeWaffle&hide_progress=true)](https://github.com/LargeWaffle/LargeWaffle/)
+
 <!--
 **DefrostedWaffle/DefrostedWaffle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
