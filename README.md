@@ -2,7 +2,7 @@
 
 Hi I'm Thomas, an engineering student in Computer Science aiming to learn new skills while also having fun in the meantime.
 
-I am looking for an internship in Data Science, Machine Learning, or AI generally.
+I am looking for an internship in Data Science, Machine Learning, or AI generally.  
 I use mainly Python and C++. Currently interested in all fields of IA.
 
 ## Education
