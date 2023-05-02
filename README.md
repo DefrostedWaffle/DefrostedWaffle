@@ -25,7 +25,8 @@ Main langages are Python and C++. Currently interested in all fields of IA.
 
 ## Profile stats
 
-![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LargeWaffle&show_icons=true&theme=radical)  
+![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LargeWaffle&show_icons=true&theme=dracula)  
+  
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LargeWaffle&hide_progress=true)](https://github.com/LargeWaffle/LargeWaffle/)
 
 <!--
